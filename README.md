@@ -5,4 +5,4 @@ This repository contains all the resources for the MPRI course on "Probabilistic
 Contacts
 - Christine Tasson: christine.tasson@lip6.fr 
 - Guillaume Baudart: guillaume.baudart@inria.fr
-- Xavier Rival: Xavier.Rival@ens.fr
+- Xavier Rival: xavier.rival@ens.fr
